@@ -7,7 +7,7 @@ git checkout -b 1_semnatic_versioning
 git push 
 - pushes the branch
 
-## Semantic Versioning
+## Semantic Versioning :mage:
 
 This project is going to utilize semantic versioning
 [semver.org](https://semver.org/)
