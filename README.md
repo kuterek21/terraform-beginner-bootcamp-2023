@@ -91,4 +91,8 @@ Env var do not persist in all the eviroment eg terraform and AWS you need to set
 
 ### Persisting Env VAr in GitPod
 
+ We can persist env vars into gitpod by storing then in Gitpod Secrets Storage 
+
+ gp env HELLO='world'
+ gp env PROJECT_ROOT='/workspace/terraform-beginner-bootcamp-2023'
 
