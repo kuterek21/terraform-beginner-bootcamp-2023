@@ -64,3 +64,35 @@ Now we have to add the link to the gitpod.yml
       source ./bin/install_terraform_cli
       
 ## Gitpod before - instad init!
+
+### Enviroment Variables ENV VAR
+
+We can list all the env var using  `env ` command
+We can filter specific grep eg.  `env | grep AWS_`
+
+### Setting and unsetting the Env Vars
+
+In the termial we can set using: 
+- `export PROJECT_ROOT='/workspace/terraform-beginner-bootcamp-2023'`
+In the terminal we can unset using:
+- `unset PROJECT_ROOT`
+We can set an env var termporairly when just running a command:
+`PROJECT_ROOT='/workspace/terraform-beginner-bootcamp-2023' ./bin/install_terraform_cli.sh`
+
+In the bash script we can set env var without writing export:
+```sh
+#!/usr/bin/env bash 
+PROJECT_ROOT='/workspace/terraform-beginner-bootcamp-2023'
+```
+We can pring an env var using eg:
+- `echo $PROJECT_ROOT`
+
+Env var do not persist in all the eviroment eg terraform and AWS you need to set those indyvidually
+
+### Persisting Env VAr in GitPod
+
+ We can persist env vars into gitpod by storing then in Gitpod Secrets Storage 
+
+ gp env HELLO='world'
+ gp env PROJECT_ROOT='/workspace/terraform-beginner-bootcamp-2023'
+
