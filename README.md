@@ -96,3 +96,10 @@ Env var do not persist in all the eviroment eg terraform and AWS you need to set
  gp env HELLO='world'
  gp env PROJECT_ROOT='/workspace/terraform-beginner-bootcamp-2023'
 
+### AWS CLI installation
+
+AWS CLI in isntalled for this project via bash script:[`./bin/install_AWS_CLI`](./bin/install_AWS_CLI)
+you need to set up an env var,
+q
+
+### need to create AWS credetials 
