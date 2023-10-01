@@ -103,3 +103,11 @@ you need to set up an env var,
 q
 
 ### need to create AWS credetials 
+
+#### Terraform Registry
+
+[Terraform Registry](https://registry.terraform.io/)
+
+- **Resource**
+
+- **Mapping**
