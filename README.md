@@ -1,5 +1,11 @@
 # Terraform Beginner Bootcamp 2023
 
+## Table of Content
+- [Semantic Versioning ](#semantic-versioning-mage)
+- [Fix the Terraform CLI](#fix-the-terraform-cli)
+- [Sha bang](#sha-bang)
+- [Permision CHMOD](#permisions-chmod )
+
 ## Git Commands !
 
 git checkout -b 1_semnatic_versioning 
@@ -124,3 +130,5 @@ q
 
 to see an output  - terraform output
                   - terraform output "random_bucket_name"    
+
+                  
