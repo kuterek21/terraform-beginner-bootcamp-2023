@@ -15,9 +15,6 @@ resource "random_string" "bucket_name" {
     special = false
 }
 
-output "ramdom_bucket_name_id" {
-  value = random_string.bucket_name.id
-}
-output "random_bucket_name_result" {
-  value = random_strung.random_bucket_name_result
+output "ramdom_bucket_name" {
+  value = random_string.bucket_name.result
 }

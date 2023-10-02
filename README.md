@@ -104,6 +104,8 @@ q
 
 ### need to create AWS credetials 
 
+#### Terraform Basics
+
 #### Terraform Registry
 
 [Terraform Registry](https://registry.terraform.io/)
@@ -111,3 +113,14 @@ q
 - **Resource**
 
 - **Mapping**
+
+- terraform **random provider** 
+
+
+- Terraform Init
+- Terraform Plan
+- Terraform Apply // --auto-approve 
+- Terraform destroy
+
+to see an output  - terraform output
+                  - terraform output "random_bucket_name"    
