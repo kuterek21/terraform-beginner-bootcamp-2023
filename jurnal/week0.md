@@ -17,14 +17,14 @@ pushes the branch
 Semantic Versioning 🧙
 This project is going to utilize semantic versioning semver.org
 
-Given a version number MAJOR.MINOR.PATCH, increment the:
+# Given a version number MAJOR.MINOR.PATCH, increment the:
 
 MAJOR version when you make incompatible API changes
 MINOR version when you add functionality in a backward compatible manner
 PATCH version when you make backward compatible bug fixes Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
-Fix the Terraform CLI
+## Fix the Terraform CLI
 update the latest commands taking from: Install Terraform
-Sha Bang #!
+## Sha Bang #!
 Shebang (Unix) Shebang (Unix)
 Use sha bang to make the installation of the terraform cli automatic, executable
 
