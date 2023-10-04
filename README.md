@@ -1,6 +1,11 @@
 # Terraform Beginner Bootcamp 2023
 
+## Creation of Table of Content
+**-[ ] (# )**
+-[ ] (# )
+-[ ] (# )
 ## Table of Content
+
 - [Semantic Versioning ](#semantic-versioning-mage)
 - [Fix the Terraform CLI](#fix-the-terraform-cli)
 - [Sha bang](#sha-bang)
