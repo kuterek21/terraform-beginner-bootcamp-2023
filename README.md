@@ -10,7 +10,7 @@
 - [jurnal/.keep]
 ## Table of Content
 
-- [Semantic Versioning ](#semantic-versioning-mage)
+- [Semantic Versioning ](#jurnal/week0.md)
 - [Fix the Terraform CLI](#fix-the-terraform-cli)
 - [Sha bang](#sha-bang)
 - [Permision CHMOD](#permisions-chmod )
