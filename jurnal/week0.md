@@ -1,7 +1,9 @@
 ## Creation of Table of Content
+```
 **-[ ] (# )**
 -[ ] (# )
 -[ ] (# )
+```
 - to create a new folder - click add new file, type in the name and then /.keep
 - [jurnal/.keep]
 [Table of Content](#Creation of Table of Content)
