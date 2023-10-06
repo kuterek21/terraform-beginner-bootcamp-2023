@@ -5,7 +5,7 @@
 
 ## Table of Content
 
-- [Semantic Versioning ](# jurnal/week0.md/https://github.com/kuterek21/terraform-beginner-bootcamp-2023/blob/main/jurnal/week0.md#given-a-version-number-majorminorpatch-increment-the)
+- [Semantic Versioning ](# jurnal/week0.md)
 - [Fix the Terraform CLI](#fix-the-terraform-cli)
 - [Sha bang](#sha-bang)
 - [Permision CHMOD](#permisions-chmod )
