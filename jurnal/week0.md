@@ -1,6 +1,6 @@
 ## Creation of Table of Content
 ```
-**-[ ] (# )**
+-[ ] (# )
 -[ ] (# )
 -[ ] (# )
 ```
